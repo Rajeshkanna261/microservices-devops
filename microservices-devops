@@ -1,10 +1,24 @@
 microservices-devops/
 ├── user-service/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── Dockerfile
 ├── product-service/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── Dockerfile
 ├── order-service/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── Dockerfile
 ├── nginx/
+│   └── nginx.conf
 ├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   └── outputs.tf
 ├── monitoring/
+│   └── prometheus.yml
 ├── docker-compose.yml
 ├── Jenkinsfile
 └── README.md
