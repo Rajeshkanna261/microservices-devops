@@ -1,0 +1,10 @@
+microservices-devops/
+├── user-service/
+├── product-service/
+├── order-service/
+├── nginx/
+├── terraform/
+├── monitoring/
+├── docker-compose.yml
+├── Jenkinsfile
+└── README.md
